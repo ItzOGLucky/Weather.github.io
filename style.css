@@ -110,6 +110,7 @@ header i{
     display: flex;
 }
 .weather-part img{
+    display: none;
     max-width: 125px;
 }
 .weather-part .temp{
